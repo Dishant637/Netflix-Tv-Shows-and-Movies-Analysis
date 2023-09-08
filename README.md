@@ -1,1 +1,2 @@
 # Netflix-Tv-Shows-and-Movies-Analysis
+This project presents a comprehensive analysis of Netflix TV shows and movies, providing valuable insights into their content and trends. Using Python libraries like pandas, NumPy, seaborn, and matplotlib, I conducted an in-depth exploratory data analysis (EDA) on a large-scale Netflix dataset. The aim was to understand popular genres, release patterns, and audience ratings while ensuring data integrity through meticulous data preprocessing.
